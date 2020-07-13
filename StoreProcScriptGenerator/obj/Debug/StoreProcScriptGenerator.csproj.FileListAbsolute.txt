@@ -1,0 +1,7 @@
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\obj\Debug\StoreProcScriptGenerator.csprojAssemblyReference.cache
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\obj\Debug\StoreProcScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\bin\Debug\StoreProcScriptGenerator.exe.config
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\bin\Debug\StoreProcScriptGenerator.exe
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\bin\Debug\StoreProcScriptGenerator.pdb
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\obj\Debug\StoreProcScriptGenerator.exe
+C:\Users\Gopalakrishna.Pala\source\repos\StoreProcScriptGenerator\StoreProcScriptGenerator\obj\Debug\StoreProcScriptGenerator.pdb
